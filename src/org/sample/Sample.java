@@ -1,6 +1,12 @@
 package org.sample;
 
 public class Sample {
+	
+	private void m2() {
+		
+		System.out.println("Jaime Lannister");
+
+	}
 
 	public static void main(String[] args) {
 		
