@@ -12,7 +12,11 @@ public class Sample {
 		
 		System.out.println("Hi");
 		
+		System.out.println("Siva");
+		
 		System.out.println("Begins....");
+		
+		System.out.println("Stargaryans");
 		
 	}
 }
